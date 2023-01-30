@@ -1,3 +1,4 @@
 # Jenkins
+### Jenkins is an open source automation server. It helps automate the parts of software development related to building, testing, and deploying, facilitating continuous integration and continuous delivery. It is a server-based system that runs in servlet containers such as Apache Tomcat. It supports version control tools, including AccuRev, CVS, Subversion, Git, Mercurial, Perforce, ClearCase and RTC, and can execute Apache Ant, Apache Maven and sbt based projects as well as arbitrary shell scripts and Windows batch commands.
 
-![Jenkins](https://www.srijan.net/hubfs/Srijan%20Blog%20-2021/Basics-Of-JEnikens.jpg)
+![Jenkins](https://www.jenkins.io/images/logo-title-opengraph.png)
